@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "334159428797",
+    "project_id": "emergencybutton-bdae0",
+    "storage_bucket": "emergencybutton-bdae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334159428797:android:ff90a3de5984eec9710bd4",
+        "android_client_info": {
+          "package_name": "id.emergency.batalyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334159428797-fof1flcq8gclpo7s8t7nnpldgq8itk0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD2eEGf_WW_8HycC0Gw0nkXOAabkGp8pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334159428797-fof1flcq8gclpo7s8t7nnpldgq8itk0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334159428797-dq588u4j3pg5viq8vqj13mgs28v2llc3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.emergency.batalyon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
